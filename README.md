@@ -1,7 +1,7 @@
 # Synthetic_Actor_in_GAIG
-This is a repository for a academic project that undergoing. At the time of publication, this repository will have a set of datasets and records for the academic use.
+This is a repository for a academic project that undergoing. At the time of publication, this repository Open to public.
 
-本仓库系为一个正在进行的学术研究所预留的仓库。当学术研究公开发表后，本仓库将添加数据集及研究回顾，以供学术之用
+本仓库系一个正在进行的学术研究的仓库。当学术研究公开发表后，本仓库将公开，以供学术之用。
 
 # License
 [![知识共享许可协议](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
