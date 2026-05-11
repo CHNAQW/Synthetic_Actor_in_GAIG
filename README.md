@@ -4,7 +4,7 @@ This is a repository for a academic project that undergoing. At the time of publ
 本仓库系为一个正在进行的学术研究所预留的仓库。当学术研究公开发表后，本仓库将添加数据集及研究回顾，以供学术之用
 
 # License
-<img width="474" height="264" alt="image" src="https://github.com/user-attachments/assets/3cd80557-e4a8-4d79-82b2-2e22bb8eede2" />
+[![知识共享许可协议](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 
 For the usage of the data in this repository, you shall obey License CC-BY-NC-4.0. The Commerical usage for graduate student at conference, and the manuscript fee from the academic use are excluded from the Non-Commerical restriction, but author reserved the Attribution Right.
 
