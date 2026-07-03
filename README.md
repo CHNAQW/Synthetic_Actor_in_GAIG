@@ -4,6 +4,7 @@ This is a repository for a academic project that undergoing. This repository is 
 本仓库系一个正在进行的学术研究的仓库。因本研究在论坛上发表，为服务于学术交流，特此公开。
 
 Current Citation Shall be: 王泽昊.全球人工智能治理中多元主体的议题关注差异——基于多大模型模拟的“硅基再现”[C]//第八届"关·世界"青年学术论坛,2026:1-22.
+
 当前的恰当引用应当为: 王泽昊.全球人工智能治理中多元主体的议题关注差异——基于多大模型模拟的“硅基再现”[C]//第八届"关·世界"青年学术论坛,2026:1-22.。
 
 # License
