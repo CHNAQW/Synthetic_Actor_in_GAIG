@@ -14,8 +14,9 @@ Data in this repository are licensed under the Creative Commons Attribution–No
 
 In addition to the permissions granted under this license, the Licensor grants permission for the following uses, even where such uses would otherwise be considered commercial:
 
-  (1) use by graduate students in academic conference or forum presentations; and 
-  (2) use in academic publications for which the author of the publication receives remuneration.
+     (1) use by graduate students in academic conference or forum presentations; and 
+  
+     (2) use in academic publications for which the author of the publication receives remuneration.
 
 The attribution requirement under CC BY-NC 4.0 remains fully applicable to all such uses. To satisfy this requirement, users must cite the article listed above using the citation provided.
 
