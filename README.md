@@ -1,7 +1,8 @@
 # Synthetic_Actor_in_GAIG
-This is a repository for a academic project that undergoing. This repository is now open for the forum communication. 
 
-本仓库系一个正在进行的学术研究的仓库。因本研究在论坛上发表，为服务于学术交流，特此公开。
+This repository contains materials and data from an ongoing academic research project. As the research is scheduled to be presented at an academic forum and its abstract has been accepted for inclusion in the forum's abstract collection, this repository is made publicly available to facilitate academic exchange and discussion.
+
+本仓库存放一项正在进行的学术研究项目所使用的相关材料与数据。本研究即将在学术论坛上进行报告，相关摘要亦已获摘要集收录。为促进学术交流与讨论，现将本仓库公开。
 
 Current Citation Shall be: 王泽昊.全球人工智能治理中多元主体的议题关注差异——基于多大模型模拟的“硅基再现”[C]//第八届"关·世界"青年学术论坛,2026:1-22.
 
