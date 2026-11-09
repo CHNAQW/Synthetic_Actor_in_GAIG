@@ -1,8 +1,8 @@
 # Synthetic_Actor_in_GAIG
 
-This repository contains materials and data from an ongoing academic research project. As the research is scheduled to be presented at an academic forum and its abstract has been accepted for inclusion in the forum's abstract collection, this repository is made publicly available to facilitate academic exchange and discussion.
+This repository contains materials and data from an ongoing academic research project. As the research is presented at an academic forum and its abstract has been accepted for inclusion in the forum's abstract collection, this repository is made publicly available to facilitate academic exchange and discussion.
 
-本仓库存放一项正在进行的学术研究项目所使用的相关材料与数据。本研究即将在学术论坛上进行报告，相关摘要亦已获摘要集收录。为促进学术交流与讨论，现将本仓库公开。
+本仓库存放一项正在进行的学术研究项目所使用的相关材料与数据。本研究已在学术论坛上进行报告，相关摘要亦已获摘要集收录。为促进学术交流与讨论，现将本仓库公开。
 
 Current Citation Shall be: 王泽昊.全球人工智能治理中多元主体的议题关注差异——基于多大模型模拟的“硅基再现”[C]//第八届"关·世界"青年学术论坛,2026:1-22.
 
